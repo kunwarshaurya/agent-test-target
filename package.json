@@ -1,0 +1,6 @@
+{
+  "name": "agent-test-target",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
